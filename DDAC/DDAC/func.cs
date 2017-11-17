@@ -49,7 +49,7 @@ namespace DDAC
                     con.Close();
                 }
             }
-            catch (SqlException)
+            catch (SqlException ex)
             {
                 return 3;
             }
