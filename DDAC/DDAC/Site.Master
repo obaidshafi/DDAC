@@ -72,7 +72,7 @@
             <hr />
           
         </div>
-
+        <asp:Label ID="Label1" runat="server" Text="Accessed from Malaysia"></asp:Label>
     </form>
 </body>
 </html>
