@@ -31,7 +31,11 @@ namespace DDAC
             string origin = Origin.SelectedValue;
             string destination = selectDestination.SelectedValue;
             DateTime dt = Calendar1.SelectedDate;
-
+            if (txtDatePicker.Text == "")
+            {
+                Response.Write("<script>alert('Please Select a Date');</script>");
+                return;
+            }
             func x = new func();
             DataTable t = x.getMap(destination, origin, dt);
 

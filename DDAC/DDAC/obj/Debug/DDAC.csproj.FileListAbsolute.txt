@@ -60,3 +60,9 @@ C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\bin\Microsoft.AI.Web.xml
 C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\obj\Debug\DDAC.csprojResolveAssemblyReference.cache
 C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\obj\Debug\DDAC.dll
 C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\obj\Debug\DDAC.pdb
+C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\bin\Microsoft.ApplicationInsights.TraceListener.xml
+C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Arsalan\Documents\Obaid\DDAC\DDAC\DDAC\bin\System.Diagnostics.DiagnosticSource.xml
