@@ -41,6 +41,11 @@ namespace DDAC
 
             GridView1.DataSource = t;
             GridView1.DataBind();
+            if (t.Rows.Count > 0)
+            {
+                Response.Write("<script>alert('No Flight is Available on this Date.Please Select another Date...');</script>");
+                
+            }
         }
 
        
